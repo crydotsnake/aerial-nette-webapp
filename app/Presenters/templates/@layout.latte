@@ -3,9 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
-	<title>{ifset title}{include title|stripHtml} | {/ifset}Nette Web</title>
+	<title>{ifset title}{include title|stripHtml} | {/ifset}Nette Webapp</title>
 
+	<!-- Stylesheet -->
 	<link rel="stylesheet" href="{$basePath}/assets/css/main.css"></link>
+
 </head>
 
 <body>
@@ -13,8 +15,13 @@
 
 	{include content}
 
+	
+	
+	<!-- JavaScript -->
 	{block scripts}
 		<script src="https://nette.github.io/resources/js/3/netteForms.min.js"></script>
 	{/block}
+
+
 </body>
 </html>
