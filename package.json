@@ -1,0 +1,22 @@
+{
+  "name": "nette-app",
+  "version": "1.0.0",
+  "description": "This is my first small app with the nette php framework. Right now, i dont have any ideas for this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crydotsnake/nette-app.git"
+  },
+  "author": "Simon Krull",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crydotsnake/nette-app/issues"
+  },
+  "homepage": "https://github.com/crydotsnake/nette-app#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.2"
+  }
+}

@@ -8,3 +8,4 @@ If you would like to start the project use this command:
 
 ## Credits
 [Nette PHP Framework](https://nette.org/)
+[TailwindCSS](https://tailwindcss.com/)
