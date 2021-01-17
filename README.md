@@ -7,7 +7,7 @@ If you would like to start the project use this command:
     $ php -S localhost:8080 -t www
 
 # Demo
-![Demo](https://raw.githubusercontent.com/crydotsnake/nette-app/main/demo.png)
+![Demo](https://raw.githubusercontent.com/crydotsnake/aerial-nette-webapp/main/demo.png)
 
 ## Credits
 
