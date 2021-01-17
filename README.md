@@ -14,4 +14,4 @@ If you would like to start the project use this command:
 
 [Nette PHP Framework](https://nette.org/)
 
-[TailwindCSS](https://tailwindcss.com/)
+[Aerial Template by HTML5up.net](https://html5up.net/)
