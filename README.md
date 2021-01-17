@@ -6,6 +6,9 @@ If you would like to start the project use this command:
 
     $ php -S localhost:8080 -t www
 
+# Demo
+![Demo](https://raw.githubusercontent.com/crydotsnake/nette-app/main/demo.png)
+
 ## Credits
 
 [Nette PHP Framework](https://nette.org/)
