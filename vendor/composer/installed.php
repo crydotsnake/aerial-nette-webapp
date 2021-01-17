@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'v3.1.0',
-    'version' => '3.1.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '60fdacbdccc87a6b8ecf55f66d93af7ddc3d525f',
     'name' => 'nette/web-project',
   ),
   'versions' => 
@@ -58,12 +58,12 @@
     ),
     'nette/database' => 
     array (
-      'pretty_version' => 'v3.1.0',
-      'version' => '3.1.0.0',
+      'pretty_version' => 'v3.1.1',
+      'version' => '3.1.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => '94caf0bf9b24d63f0ca7d0201ee47a9bcfcfa7d2',
+      'reference' => '17bc9b2b5a5cd57ab089bc1a5982bc6c3b3790e3',
     ),
     'nette/di' => 
     array (
@@ -175,21 +175,21 @@
     ),
     'nette/utils' => 
     array (
-      'pretty_version' => 'v3.2.0',
-      'version' => '3.2.0.0',
+      'pretty_version' => 'v3.2.1',
+      'version' => '3.2.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'd0427c1811462dbb6c503143eabe5478b26685f7',
+      'reference' => '2bc2f58079c920c2ecbb6935645abf6f2f5f94ba',
     ),
     'nette/web-project' => 
     array (
-      'pretty_version' => 'v3.1.0',
-      'version' => '3.1.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '60fdacbdccc87a6b8ecf55f66d93af7ddc3d525f',
     ),
     'symfony/thanks' => 
     array (

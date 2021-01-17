@@ -383,23 +383,23 @@
         },
         {
             "name": "nette/database",
-            "version": "v3.1.0",
-            "version_normalized": "3.1.0.0",
+            "version": "v3.1.1",
+            "version_normalized": "3.1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/database.git",
-                "reference": "94caf0bf9b24d63f0ca7d0201ee47a9bcfcfa7d2"
+                "reference": "17bc9b2b5a5cd57ab089bc1a5982bc6c3b3790e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/database/zipball/94caf0bf9b24d63f0ca7d0201ee47a9bcfcfa7d2",
-                "reference": "94caf0bf9b24d63f0ca7d0201ee47a9bcfcfa7d2",
+                "url": "https://api.github.com/repos/nette/database/zipball/17bc9b2b5a5cd57ab089bc1a5982bc6c3b3790e3",
+                "reference": "17bc9b2b5a5cd57ab089bc1a5982bc6c3b3790e3",
                 "shasum": ""
             },
             "require": {
                 "ext-pdo": "*",
                 "nette/caching": "^3.0",
-                "nette/utils": "^3.1",
+                "nette/utils": "^3.2.1",
                 "php": ">=7.2 <8.1"
             },
             "conflict": {
@@ -412,7 +412,7 @@
                 "phpstan/phpstan-nette": "^0.12",
                 "tracy/tracy": "^2.4"
             },
-            "time": "2020-12-21T01:23:36+00:00",
+            "time": "2021-01-12T12:24:12+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -455,6 +455,10 @@
                 "queries",
                 "sqlite"
             ],
+            "support": {
+                "issues": "https://github.com/nette/database/issues",
+                "source": "https://github.com/nette/database/tree/v3.1.1"
+            },
             "install-path": "../nette/database"
         },
         {
@@ -1281,17 +1285,17 @@
         },
         {
             "name": "nette/utils",
-            "version": "v3.2.0",
-            "version_normalized": "3.2.0.0",
+            "version": "v3.2.1",
+            "version_normalized": "3.2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nette/utils.git",
-                "reference": "d0427c1811462dbb6c503143eabe5478b26685f7"
+                "reference": "2bc2f58079c920c2ecbb6935645abf6f2f5f94ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nette/utils/zipball/d0427c1811462dbb6c503143eabe5478b26685f7",
-                "reference": "d0427c1811462dbb6c503143eabe5478b26685f7",
+                "url": "https://api.github.com/repos/nette/utils/zipball/2bc2f58079c920c2ecbb6935645abf6f2f5f94ba",
+                "reference": "2bc2f58079c920c2ecbb6935645abf6f2f5f94ba",
                 "shasum": ""
             },
             "require": {
@@ -1314,7 +1318,7 @@
                 "ext-tokenizer": "to use Nette\\Utils\\Reflection::getUseStatements()",
                 "ext-xml": "to use Strings::length() etc. when mbstring is not available"
             },
-            "time": "2020-11-25T23:47:50+00:00",
+            "time": "2021-01-11T03:05:59+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -1361,6 +1365,10 @@
                 "utility",
                 "validation"
             ],
+            "support": {
+                "issues": "https://github.com/nette/utils/issues",
+                "source": "https://github.com/nette/utils/tree/v3.2.1"
+            },
             "install-path": "../nette/utils"
         },
         {
